@@ -1,0 +1,21 @@
+===== Bill =====
+Date: 14/04/2024
+Day of the Week: Sunday
+Time: 16:18:07
+
+ID	Name	Price	Quantity	Total
+1	a		10		10			100
+=========================================
+Total Amount: 200
+
+===== Bill =====
+Date: 14/04/2024
+Day of the Week: Sunday
+Time: 16:20:00
+
+ID	Name	Price	Quantity	Total
+1	a		10		10			100
+2	b		20		20			400
+3	c		30		30			900
+=========================================
+Total Amount: 2800
